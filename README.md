@@ -22,16 +22,16 @@ Studiju kursa Datormācība ( speckurss) elektroniskā klade
    18  ls -la  
    19  cd ..  
    20  ls -la  
-   21  pwd  
-   22  cd~  
+   21  pwd    
+   22  cd~    
    23  nano mans_skripts.sh           - izveidot sheel komandu skriptu  
-   24  ./mans_skripts.sh              - 
-   25  echo $PATH
-   26  PATH=$PATH:~/                   - pievienot seļam home direktoriju
-   31  chmod 750 mans_skripts.sh              - piešķirt failam tiesības " 750" binārajā kodā 
-   32  mans_skripts.sh
-   33  history  - attēlot vēsturi uz ekrāna  
-   34  history > history_20190222.txt - ierakstīt vēsturi failā  
+   24  ./mans_skripts.sh              - uzrakstīt skriptu  
+   25  echo $PATH  
+   26  PATH=$PATH:~/                   - pievienot seļam home direktoriju  
+   31  chmod 750 mans_skripts.sh              - piešķirt failam tiesības " 750" binārajā kodā   
+   32  mans_skripts.sh  
+   33  history  - attēlot vēsturi uz ekrāna    
+   34  history > history_20190222.txt - ierakstīt vēsturi failā    
 
 
 
