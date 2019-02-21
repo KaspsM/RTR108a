@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  edx2.etf.rtu.lv/portal
+    4  uname
+    5  uname -a
+    6  ~$ echo $0
+    7  whoami
+    8  pwd
+    9  cd
+   10  sh
+   11  man pwd
+   12  ls -la
+   13  mkdir mape1
+   14  cd mape1
+   15  ls
+   16  ls -la
+   17  ls -a
+   18  ls -la
+   19  cd ..
+   20  ls -la
+   21  pwd
+   22  cd~
+   23  nano mans_skripts.sh
+   24  ./mans_skripts.sh
+   25  echo $PATH
+   26  PATH=$PATH:~/
+   27  echo $PATH
+   28  mans_skripts.sh
+   29  ls - l
+   30  ls -l
+   31  chmod 750 mans_skripts.sh
+   32  mans_skripts.sh
+   33  history
+   34  history > history_20190222.txt
