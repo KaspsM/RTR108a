@@ -1,4 +1,15 @@
 # RTR108a
+
+Sekvence
+git clone https://github.com/KaspsM/RTR108a
+
+mv (pārvietojamās mapes nosaukums)/ RTR108a/
+
+pāriet uz mapi RTR108a
+
+./git-upload (nosaukums uploadam)
+
+
 Studiju kursa Datormācība ( speckurss) elektroniskā klade
 ## 4. nodarbība
 
