@@ -1,5 +1,15 @@
 # RTR108a
 Studiju kursa Datormācība ( speckurss) elektroniskā klade
+## 4. nodarbība
+
+ skriptus veido teksta redaktorā nano ar paplāšinājumu sh ( *.sh)
+ Skriptu sāk ar rindu #!/bin/bash ( vai citu attiecīgu dialektu)
+ Rakstot skriptus, būtiski ir ievērot tukšumvietu lietojumu:
+    - aiz vienādības zīmes nav tukšumvietas
+    
+ Komanda unset nodzēš mainīgā vērtību
+ 
+ 
 ## 3 nodarbība
     uname           - operētājsistēmas nosaukums  
     uname -a           - tas pats ar detaļām  
@@ -27,7 +37,9 @@ Studiju kursa Datormācība ( speckurss) elektroniskā klade
     chmod 750 mans_skripts.sh              - piešķirt failam tiesības " 750" binārajā kodā   
     mans_skripts.sh  
     history  - attēlot vēsturi uz ekrāna    
-    history > history_20190222.txt - ierakstīt vēsturi failā    
+    history > history_20190222.txt - ierakstīt vēsturi failā 
+    
 
+ 
 
 
