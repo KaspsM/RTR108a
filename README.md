@@ -4,7 +4,7 @@ Studiju kursa Datormācība ( speckurss) elektroniskā klade
 
  skriptus veido teksta redaktorā nano ar paplāšinājumu sh ( *.sh)
  Skriptu sāk ar rindu #!/bin/bash ( vai citu attiecīgu dialektu)
- Rakstot skriptus, būtiski ir ievērot tukšumvietu lietojumu:
+ Rakstot skriptus, būtiski ir ievērot tukšumvietu lietojumu:  
     - aiz vienādības zīmes nav tukšumvietas
     
  Komanda unset nodzēš mainīgā vērtību
