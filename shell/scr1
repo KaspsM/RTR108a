@@ -1,0 +1,6 @@
+# Autors : Kaspars Mitulis
+# Skripts ir sekojošs:
+
+echo "Kāds ir jūsu vārds?"
+read PERSON
+echo "Sveiks, $PERSON"
