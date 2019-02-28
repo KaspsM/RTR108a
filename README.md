@@ -8,6 +8,8 @@ Studiju kursa Datormācība ( speckurss) elektroniskā klade
     - aiz vienādības zīmes nav tukšumvietas
     
  Komanda unset nodzēš mainīgā vērtību
+  Speciālais mainīgais $* - uztver argumentus kā vienu argumentu, kaut arī vairāki vārdi
+  Speciālais mainīgais $@ katru argumentu uztver kā atsevišķu argumentu
  
  
 ## 3 nodarbība
