@@ -5,7 +5,7 @@
 # Interpretātori
  - python
  - ipython
- - idle
+ - idle ( idle &)
  
 
 # RTR108a
