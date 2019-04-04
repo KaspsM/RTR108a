@@ -1,6 +1,12 @@
 # Darbs Pyton
 - Anaconda
  - on line - colab.research.google.com
+  - 213.175.92.37 x121REB360
+# Interpretātori
+ - python
+ - ipython
+ - idle
+ 
 
 # RTR108a
 
