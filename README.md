@@ -1,3 +1,7 @@
+# Darbs Pyton
+- Anaconda
+ - on line - colab.research.google.com
+
 # RTR108a
 
 Sekvence
